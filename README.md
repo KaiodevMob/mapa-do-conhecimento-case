@@ -109,8 +109,9 @@ Isso elimina achismo e transforma dados em estratégia de estudo.
 ## 🚀 Acesso ao Projeto
 
 🔗 Site: https://mapadoconhecimento.com  
-📱 App: https://play.google.com/store/apps/details?id=com.mapa.mapa
-[Portfólio Técnico (PDF)](assets/PORTIFOLIO_KAIO.pdf)
+📱 App: https://play.google.com/store/apps/details?id=com.mapa.mapa  
+📄 [Portfólio Técnico (PDF)](https://github.com/KaiodevMob/mapa-do-conhecimento-case/raw/fe20048ec404a63118158a9ed367922b37e2af44/assets/PORTIFOLIO%20KAIO.pdf)
+
 ---
 
 ## 🔒 Sobre o Código
