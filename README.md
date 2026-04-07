@@ -100,7 +100,9 @@ Isso elimina achismo e transforma dados em estratégia de estudo.
 ---
 
 ## 📱 Preview da Plataforma
-*(Adicione aqui screenshots ou GIFs do app e da web)*
+<p align="center">
+  <img src="assets/preview.png" width="800"/>
+</p>
 
 ---
 
