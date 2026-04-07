@@ -123,6 +123,7 @@ O código-fonte é privado por se tratar de um produto comercial em operação.
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/kaio-da-silva-brito-959892385
-[Portfólio Técnico (PDF)](assets/PORTIFOLIO_KAIO.pdf)
-- Email: mapadoconhecimentoapp@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kaio-da-silva-brito-959892385  
+- Email: mapadoconhecimentoapp@gmail.com  
+- Telefone/WhatsApp: +55 86 99921-8072  
+- Instagram: https://www.instagram.com/kaiodsb
