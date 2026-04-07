@@ -110,7 +110,7 @@ Isso elimina achismo e transforma dados em estratégia de estudo.
 
 🔗 Site: https://mapadoconhecimento.com  
 📱 App: https://play.google.com/store/apps/details?id=com.mapa.mapa
-
+[Portfólio Técnico (PDF)](assets/PORTIFOLIO_KAIO.pdf)
 ---
 
 ## 🔒 Sobre o Código
