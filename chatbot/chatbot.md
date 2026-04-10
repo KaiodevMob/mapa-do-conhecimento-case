@@ -1,7 +1,7 @@
 # 🤖 NAVI - Chatbot Inteligente de Navegação
 
 <p align="center">
-  <img src="assets/chatbot.png" width="800"/>
+  <img src="../assets/chatbot.png" width="800"/>
 </p>
 
 ## 📌 Visão Geral
